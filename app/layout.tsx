@@ -10,8 +10,8 @@ const ibmPlexSerif = IBM_Plex_Serif({
 });
 
 export const metadata: Metadata = {
-  title: 'Penjaga Uang',
-  description: 'Penjaga Uang adalah modern platform pengelola keuangan untuk semua orang',
+  title: 'DompetBijak',
+  description: 'DompetBijak adalah modern platform pengelola keuangan untuk semua orang',
   icons: {
     icon: '/icons/logo.svg',
   },
